@@ -1,0 +1,37 @@
+# 📱 Gerador de QR Code com Node.js
+
+## 📌 Descrição
+
+Projeto desenvolvido durante o curso da DIO com o objetivo de gerar QR Codes utilizando Node.js.
+
+## 🚀 Funcionalidades
+
+* Geração de QR Code a partir de texto ou links
+* Execução via terminal
+* Uso de bibliotecas externas
+
+## 🛠️ Tecnologias utilizadas
+
+* Node.js
+* JavaScript
+* Biblioteca de QR Code
+
+## ▶️ Como executar
+
+```bash
+npm install
+npm run start
+```
+
+## 📚 Aprendizados
+
+Neste projeto aprendi:
+
+* Uso de dependências (npm)
+* Scripts no package.json
+* Manipulação de entrada no terminal
+* Estrutura de projetos Node.js
+
+## 🔗 Referência
+
+Projeto base fornecido pela DIO.
